@@ -1,5 +1,5 @@
-안녕하세요
+Hi
 
-오늘은 날씨가 좋아요
+This is English version text file.
 
-오늘의 점심은 뭔가요
+break time
